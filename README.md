@@ -1,2 +1,3 @@
 # first-portfolio
-my first front end dev portfolio 
+my first front end developer portfolio 
+HTML + CSS + Bootstrap + JavaScript
